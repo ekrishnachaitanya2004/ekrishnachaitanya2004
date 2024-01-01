@@ -36,7 +36,7 @@
   [![Learning](https://skillicons.dev/icons?i=r,pytorch,flask,aws,mongodb,raspberrypi)](https://skillicons.dev)
 
 ## Achievements
-- [Proficient in Web Fundamentals](www.google.com)
+- [CS50X](www.google.com)
 
 ## Hobbies and Interests
 - Sleeping 💤
