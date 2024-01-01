@@ -87,7 +87,7 @@
  
 </div>
 
-## ⛎ My Pet
+<!--## ⛎ My Pet
 
 <p align="center"> 
 <picture>
@@ -95,7 +95,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekrishnachaitanya2004/ekrishnachaitanya2004/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ekrishnachaitanya2004/ekrishnachaitanya2004/output/github-contribution-grid-snake.svg">
 </picture>
-
+-->
 ### 🏆 GitHub Trophies
 <div align="center">
 
