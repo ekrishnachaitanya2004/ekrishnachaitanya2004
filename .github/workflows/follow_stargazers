@@ -1,0 +1,44 @@
+name: Follow Stargazers
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+
+jobs:
+  follow_stargazers:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14'
+
+    - name: Install Octokit
+      run: npm install @octokit/rest
+
+    - name: Follow Stargazers
+      run: |
+        node -e "
+        const { Octokit } = require('@octokit/rest');
+        const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+        
+        (async () => {
+          const { data: stargazers } = await octokit.rest.activity.listStargazersForRepo({
+            owner: 'Cinnamon',
+            repo: 'kotaemon'
+          });
+
+          for (const user of stargazers) {
+            await octokit.rest.users.follow({
+              username: user.login
+            });
+          }
+        })();
+        "
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
