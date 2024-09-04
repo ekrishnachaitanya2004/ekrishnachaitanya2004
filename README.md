@@ -4,7 +4,7 @@
 <!--<img src="https://media.giphy.com/media/odKUQFwZfsGRI5ctD7/giphy.gif" width="200" height="200" alt="Pikachu GIF"/></a>
 
 ![Profile Image](https://github.com/ekrishnachaitanya2004/ekrishnachaitanya2004/blob/main/profile_gitbug_optimized.png) -->
-<img src="https://github.com/ekrishnachaitanya2004/ekrishnachaitanya2004/blob/main/anime_1858504493.png" height="20%" width="20%"/>
+<img src="https://github.com/ekrishnachaitanya2004/ekrishnachaitanya2004/blob/main/ff.png" height="20%" width="20%"/>
 
 ### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
 <h6> An introverted student who dwells in a nightmare <br> filled with an urge to unveil every door of the <br> afterlife never ends; instead of dying in dooms of <br> hopelessness, savor the demons that live within. </h6> 
