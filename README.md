@@ -25,10 +25,11 @@
 - MTF Institute: Project Management
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,java,python,php,Astro)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=apple,linux,kali,docker,github,replit,python,swift,java,bash,astro,netlify&perline=6)
+
 
   #### Learning
-  [![Learning](https://skillicons.dev/icons?i=htmx,go,nextjs,dart,flutter)](https://skillicons.dev)
+  [![Learning](https://skillicons.dev/icons?i=r,pytorch,flask,aws,mongodb,raspberrypi)](https://skillicons.dev)
 
 ## Achievements
 - [Proficient in Web Fundamentals](www.google.com)
