@@ -21,16 +21,12 @@
 - **Name:** Ethamukkala Krishna Chaitanya
 - **Email:** ekrishnachaitanya2004@gmail.com
 - **Date of Birth:** March 2, 2004
-- **MBTI:** INTP-J
 - **Languages:** Telugu, English, Hindi
 
 ## Education
 - **Degree:** Bachelor of Science in Computer Science (Undergraduate)
 - **Institution:** Sv Colleges,Tirupathi
   
-**Others:**
-- CSU extended learning via IT Masters specializing in cybersecurity field.
-- MTF Institute: Project Management
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=apple,linux,kali,docker,github,replit,python,swift,java,bash,astro,netlify&perline=6)
