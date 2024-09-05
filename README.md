@@ -47,9 +47,9 @@
 - Listening To Music 🎧
 
 ## Motto
-- **"nadelen worden voordelen."**
+- **"The disadvantages become advantages"**
 
-## 🍿 !notifs 
+## Profile Visits 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ekrishnachaitanya2004/count.svg?"  />
 </div> <br>
@@ -100,7 +100,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ekrishnachaitanya2004/ekrishnachaitanya2004/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
 ### 🏆 GitHub Trophies
 <div align="center">
 
@@ -111,9 +110,9 @@
 
 
 
-### 💤
+<!--### 💤
 <p align="center"> 
-<img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/> -->
+<img title="testing" alt="memes" width="70%" height="70%" src="imginsert.png"/>
   
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer"/>-->
 </p>
