@@ -1,7 +1,8 @@
 <!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/> </p>  -->
 <p align="center">
-  <img src="https://i.giphy.com/uDBisxEHYwBDq.webp"/> </p>
+  <img src="https://i.giphy.com/uDBisxEHYwBDq.webp"/>
+  <img src="https://c.tenor.com/f1KSTOwltycAAAAC/tenor.gif"/> </p>
 
 <!--<img src="https://media.giphy.com/media/odKUQFwZfsGRI5ctD7/giphy.gif" width="200" height="200" alt="Pikachu GIF"/></a>
 
