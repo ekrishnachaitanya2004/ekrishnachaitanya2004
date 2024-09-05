@@ -1,8 +1,12 @@
 <!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/> </p>  -->
-<p align="center">
+<p align="left">
   <img src="https://i.giphy.com/uDBisxEHYwBDq.webp"/>
-  <img src="https://c.tenor.com/f1KSTOwltycAAAAC/tenor.gif"/> </p>
+  <!--<img src="https://c.tenor.com/f1KSTOwltycAAAAC/tenor.gif"/>
+  <img src="https://i.giphy.com/YJDmc88k7ttao.webp"/>
+  <img src="https://i.giphy.com/ERc5g8ThElMQM.webp"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg4cGY2dDRxZ29mZGVzbWc1NzdzdTZ4NzZxOHQ0NGZ4OTNqejNwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QFQ2zOl3fmkSHjE8qD/giphy.webp"/>-->
+</p>
 
 <!--<img src="https://media.giphy.com/media/odKUQFwZfsGRI5ctD7/giphy.gif" width="200" height="200" alt="Pikachu GIF"/></a>
 
