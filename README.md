@@ -77,7 +77,7 @@
 
 
 ## 📊 My Github Stats
-<div align="center">
+<!--<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnachaitanya2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekrishnachaitanya2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -85,7 +85,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekrishnachaitanya2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekrishnachaitanya2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
-</div>
+</div>-->
+
+<h6 align="center">
+
+  <img src="https://gh-readme-profile.vercel.app/api?username=ekrishnachaitanya2004&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true">
+
+</h6>
+
 
 <!--## ⛎ My Pet
 
