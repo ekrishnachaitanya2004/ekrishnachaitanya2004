@@ -1,12 +1,12 @@
 <!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/> </p>  -->
-<p align="left">
+<!--<p align="left">
   <img src="https://i.giphy.com/uDBisxEHYwBDq.webp"/>
   <!--<img src="https://c.tenor.com/f1KSTOwltycAAAAC/tenor.gif"/>
   <img src="https://i.giphy.com/YJDmc88k7ttao.webp"/>
   <img src="https://i.giphy.com/ERc5g8ThElMQM.webp"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg4cGY2dDRxZ29mZGVzbWc1NzdzdTZ4NzZxOHQ0NGZ4OTNqejNwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QFQ2zOl3fmkSHjE8qD/giphy.webp"/>-->
-</p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg4cGY2dDRxZ29mZGVzbWc1NzdzdTZ4NzZxOHQ0NGZ4OTNqejNwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QFQ2zOl3fmkSHjE8qD/giphy.webp"/>
+</p> -->
 
 <!--<img src="https://media.giphy.com/media/odKUQFwZfsGRI5ctD7/giphy.gif" width="200" height="200" alt="Pikachu GIF"/></a>
 
@@ -32,11 +32,11 @@
 ![My Skills](https://skillicons.dev/icons?i=apple,linux,kali,docker,github,replit,python,swift,java,bash,astro,netlify&perline=6)
 
 
-  #### Learning
-  [![Learning](https://skillicons.dev/icons?i=r,pytorch,flask,aws,mongodb,raspberrypi)](https://skillicons.dev)
+#### Learning
+[![Learning](https://skillicons.dev/icons?i=r,pytorch,flask,aws,mongodb,raspberrypi)](https://skillicons.dev)
 
 ## Achievements
-- [CS50X](www.google.com)
+- [CS50P](www.google.com)
 
 ## Hobbies and Interests
 - Sleeping 💤
@@ -76,7 +76,7 @@
 </div> -->
 
 
-## 📊 My Github Stats
+<!--## 📊 My Github Stats
 <!--<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnachaitanya2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -85,13 +85,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekrishnachaitanya2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekrishnachaitanya2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
-</div>-->
+</div>
 
 <h6 align="center">
 
   <img src="https://gh-readme-profile.vercel.app/api?username=ekrishnachaitanya2004&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true">
 
-</h6>
+</h6>-->
 
 
 <!--## ⛎ My Pet
@@ -103,12 +103,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ekrishnachaitanya2004/ekrishnachaitanya2004/output/github-contribution-grid-snake.svg">
 </picture>
 -->
-### 🏆 GitHub Trophies
+<!--### 🏆 GitHub Trophies
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=ekrishnachaitanya2004&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-</div>
+</div>-->
 
 
 
